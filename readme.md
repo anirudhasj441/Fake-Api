@@ -78,4 +78,3 @@ Body:
 ```bash
 GET /projects
 ```
-
